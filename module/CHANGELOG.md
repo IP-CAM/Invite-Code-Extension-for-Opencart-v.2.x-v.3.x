@@ -1,5 +1,9 @@
 # Change log
 
+## [1.2.1] - 2022-06-07:
+### Internal
+- Code improvements
+
 ## [1.2.0] - 2021-11-01:
 ### Fixed
 - Handling the codes in customer account
