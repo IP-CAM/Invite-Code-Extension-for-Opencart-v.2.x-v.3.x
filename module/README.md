@@ -25,5 +25,5 @@ Compatible with OpenCart 2.2.x-3.x versions.
 
 ## Related extensions
 [Default Registration Group](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42480) - allows to automatically assign newly registered customers to a specified group.  
-[Customer Loyalty](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42642) - allows you to automatically transfer customers to other groups according to the total amount they have spent.  
+[Customer Loyalty](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42646) - allows you to automatically transfer customers to other groups according to the total amount they have spent.  
 [Customer Group Size](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42642) - allows to display how many customer in each customer group.  
