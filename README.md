@@ -2,5 +2,7 @@
 
 ## Description
 **Invite Code"** is an OpenCart extension that allows customers to join other groups and get access to special prices or discounts available to this group.
-Compatible with OpenCart 2.2.x-3.x versions.
+[Read more...](./module/README.md)
 
+## Download
+* [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42632)
