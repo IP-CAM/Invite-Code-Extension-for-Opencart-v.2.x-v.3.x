@@ -10,7 +10,7 @@ Compatible with OpenCart 2.2.x-3.x versions.
 * Manual or automatic code generation.
 * Invite codes may be limited by date range.
 * Uses the sort order to determine a group priority.
-* Does not modify OC system files (OCMOD).
+* Does not modify system files (OCMOD).
 
 ## Live demo
 [Admin](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=customer/customer_group) - Customer group  
