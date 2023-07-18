@@ -25,5 +25,4 @@ REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS O
 
 ## Configure
 * Extensions → Extensions → Modules → #ocmod.space: invite-code → [Edit]
-
-
+* Customers → Customer Groups → [select a group] → [Edit]
