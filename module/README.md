@@ -28,3 +28,4 @@ Compatible with OpenCart 2.2.x-3.x versions.
 * Automatically move customers to more privileged customer groups when their spending reaches set thresholds using the [**Customer Loyalty**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42646) module.
 * Automatically assign newly registered customers to a defined customer group by using the [**Default Registration Group**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42480) extension.
 * Check the number of members in customer groups using the [**Customer Group Size**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42642) extension.
+* Allow foreign customers to get the same gross prices as in the country where the store is located (despite different VAT rates) using the [**Consistent Pricing**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44968) extension.
