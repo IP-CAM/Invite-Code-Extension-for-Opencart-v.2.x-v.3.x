@@ -1,8 +1,7 @@
 # Invite Code
 
 ## Description
-**Invite Code"** is an OpenCart extension that allows customers to join more privileged customer groups using the invite codes.
-[Read more...](./module/README.md)
+**Invite Code** is an OpenCart extension that allows customers to join more privileged customer groups using the invite codes. [Read more...](./module/README.md)
 
 ## Links
 * **Invite Code** on [**OpenCart Marketplace**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42632).

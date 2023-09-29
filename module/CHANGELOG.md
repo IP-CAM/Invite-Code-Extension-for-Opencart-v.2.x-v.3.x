@@ -1,5 +1,14 @@
 # Change log
 
+## [1.3.0] - 2023-09-29:
+### Added
+- Ability to use one-time codes.
+### Fixed
+- New group creating issue.
+- OC2.x compatibility.
+### Internal
+- Code improvement.
+
 ## [1.2.3] - 2023-07-21:
 ### Internal
 - Code improvement.

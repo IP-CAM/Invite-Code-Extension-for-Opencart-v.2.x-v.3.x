@@ -5,11 +5,10 @@
 Compatible with OpenCart 2.2.x-3.x versions.
 
 ## Features
-* Joining more privileged customer group during customer registration.
-* Leveling up customer group from the personal account.
-* Code generator.
-* Date range for the invite codes.
-* Prioritise the customer groups using sort order.
+* Allow to join higher-level groups from the customer account.
+* Allow to join a non-default higher-level group upon the registration.
+* Validity period (separately for each group).
+* The sort order determines the priority of customer groups.
 * Does not modify system files (OCMOD).
 
 ## Live demo
